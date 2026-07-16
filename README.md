@@ -13,4 +13,4 @@ milestones projects building toward a WNBA Season Engine.
 - [] M6 — Team/Game/Season object model + Projector hierarchy working
 - [] M7 — Custom exceptions + context manager integrated
 - [] M8 — Decorators applied, encoding drill documented
-- [] Capstone — Season Engine complete with README and testss
+- [] Capstone — Season Engine complete with README and tests
