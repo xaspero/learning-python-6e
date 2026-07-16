@@ -3,7 +3,7 @@
 18-week self study of Mark Lutz's _Learing Python_, 6th Edition, with
 milestones projects building toward a WNBA Season Engine.
 
-## Progreaa Tracker
+## Progress Tracker
 
 - [] M1 — Parts I read, quizzes done, environment + runner log project committed
 - [] M2 — Core types mastered, stats card + puzzle sheet committed
