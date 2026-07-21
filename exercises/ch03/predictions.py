@@ -18,12 +18,21 @@ is a free self-quiz.
 # ------------------------------------------------------------
 # Puzzle 1
 # ------------------------------------------------------------
-# PREDICT:
-# ACTUAL:
-# VERDICT: right / WRONG
+# PREDICT: I want to raise the content of x to the power of 8
+# ACTUAL: TypeError: unsupported operand type(s) for ** or pow(): 'str' and 'int'
+# VERDICT: WRONG
+
+import sys
+import sys
 
 print("--- puzzle 1 ---")
 # (code here)
+
+print(sys.platform)
+print(2 ** 100)
+x = 'Hack!'
+
+print(x ** 8)  # repeat the string x 8 times
 
 
 # ------------------------------------------------------------
