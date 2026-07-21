@@ -17,3 +17,8 @@
             (i) PyPy speed up normal Python programs at runtime by using just-in-time compiler to replace some Python code with machine code.
             (ii) Shed Skin does the same with ahead-of-time compiler, whcih translate a portion of Python code to C++ before it is runned
             (iii) Cython is a hybrid of Python/C that can be compiles into machine-code extension that can be accessed by CPython code.
+
+# Ch 03: How You Run Programs
+
+    - Namespace A package of variable names in a Python module
+    - Attributes: Various names that are attached to a specific object (like a module)
