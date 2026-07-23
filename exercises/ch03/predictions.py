@@ -1,4 +1,4 @@
-"""Chapter NN — Predictions
+"""Chapter 03 — Predictions
 
 The predict-then-run drill. THE ONE RULE: fill in PREDICT before you run.
 Running first and writing the "prediction" after is lying to yourself and

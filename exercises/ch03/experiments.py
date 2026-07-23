@@ -1,4 +1,4 @@
-"""Chapter NN — Experiments
+"""Chapter 03 — Experiments
 
 Your own questions the book didn't answer. This is where reading turns
 into ownership: "the book showed X... but what about Y?"
